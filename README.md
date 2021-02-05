@@ -4,7 +4,7 @@
 
 ![screenshot](./screenshots/gui.png)
 
-`ex-meow` is a program detecting Exalted Orbs on your screen and notifying it by meowing.
+`ex-meow` is a program detecting 'Path of Exile' Exalted Orbs on your screen and notifying it by meowing.
 
 - simple and powerful
 - scalable: whatever you want to detect, make them detectable.
