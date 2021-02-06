@@ -3,15 +3,14 @@ IfExist, %icon%
 Menu, Tray, Icon, %icon%
 ;return
 
-
-Gui, Add, Text, x30 y16 w208 h24, Ex-meow: detecting Exalted Orb and meowing
-Gui, Add, Text, x156 y48 w72 h12 vstatus,
-Gui, Add, Button, x20 y64 w100 h30, Detect
-Gui, Add, Button, x128 y64 w100 h30, Stop
+Gui, Add, Text, x20 y16 w234 h24, Path of Meow: detecting and meowing
+Gui, Add, Text, x174 y48 w72 h12 vstatus,
+Gui, Add, Button, x20 y64 w108 h30, Detect
+Gui, Add, Button, x134 y64 w108 h30, Stop
 Gui, Margin, 12, 16
 Gui, Show
 
-global isMacroStart := false
+isMacroStart := false
 
 return
 
@@ -47,4 +46,3 @@ ButtonStop:
     GuiControl, , status, 
 }
 return
-
