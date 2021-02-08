@@ -8,10 +8,9 @@ Path of Meow detects Path of Exile Exalted Orbs on your screen and meows. Not ju
 - powerful
 - scalable
 
-#### Last updated (2021.02.06)
+#### Last updated (2021.02.08)
 
-- Change file name 'ex-meow' into 'Path of Meow'
-- Update README.md
+- Add demo link into README.md
 
 <br>
 
@@ -27,3 +26,10 @@ Since Path of Meow **doesn't provide auto-image-scaling**, you want to provide i
 1. Open [images] file and add images into. **ONLY PNG file format is available.**
 1. Excute Path of Meow.
 1. Tap 'Detect' button and hunting whatever you want. When you get one, Feel a flush of joy with meow sound.
+
+<br>
+
+### 3. Demo
+[notion.so/macaronpark/Path-of-Meow-demo](https://www.notion.so/macaronpark/Path-of-Meow-demo-2eaf418beaa24c37841e53fbd3760025)
+
+<br>
